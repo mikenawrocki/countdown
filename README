@@ -1,0 +1,11 @@
+Countdown - a simple program to count down the seconds. 
+Options:
+-v: Enable verbosity. Show the seconds as it counts down.
+-t: Specify time. Count down to a time in 24-hour format, such as: 23:59:59
+-D: Specify a Date, as well as a time. Format MM/DD/YYYY 23:59:59
+-N: Provide argument in minutes, not seconds
+-n: Provide argument in seconds. This is the default.
+
+Compiling:
+run: make
+
